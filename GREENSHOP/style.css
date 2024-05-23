@@ -1,15 +1,15 @@
-.link1 {
+.link {
 	font-size: 20px;
-	color: #3D3D3D;
 	text-decoration: none;
 	font-weight: 700;
 }
 
-.link2 {
-	font-size: 20px;
+.link-log {
+	color: #3D3D3D;
+}
+
+.link-reg {
 	color: #46A358;
-	text-decoration: none;
-	font-weight: 700;
 }
 
 p.text {
